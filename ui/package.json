@@ -115,7 +115,7 @@
         "tar": "^6.2.1",
         "universal-cookie": "^7.1.4",
         "uuid": "^9.0.1",
-        "xstate": "^5.13.0"
+        "xstate": "^5.17.1"
     },
     "devDependencies": {
         "@4tw/cypress-drag-drop": "^2.2.5",
